@@ -9,4 +9,4 @@ python3 weather.py Delhi
 1. Get a free API key from openweathermap.org
 2. Create a `.env` file with `OPENWEATHER_API_KEY=your_key`
 3. pip install requests python-dotenv
-4. To Run : python3 weather.py <City>
+4. To Run : python3 weather.py CITYNAME
